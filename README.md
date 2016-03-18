@@ -23,10 +23,12 @@ You can also compile the classes manually. The following Atlassian libraries and
 
 ## Installation
 If built through Maven;
+
 1. Copy the JAR from the target directory to [JIRA ROOT]/atlassian-jira/WEB-INF/lib
 2. Enable the MIDANAuthenticator in your seraph-config.xml and comment out all other authenticators.
 
 If built manually;
+
 1. Copy the 3 class files to [JIRA ROOT]/atlassian-jira/WEB-INF/classes/eu/midan/
 2. Enable the MIDANAuthenticator in your seraph-config.xml and comment out all other authenticators.
 
