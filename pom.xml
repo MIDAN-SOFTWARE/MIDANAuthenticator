@@ -7,7 +7,7 @@
 
     <groupId>eu.midan</groupId>
     <artifactId>midan-authenticator</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <repositories>
         <repository>
