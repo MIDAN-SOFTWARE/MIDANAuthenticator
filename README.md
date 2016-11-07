@@ -15,11 +15,11 @@ mvn clean package
 
 You can also compile the classes manually. The following Atlassian libraries and class folders need to be linked:
 
-- WEB-INF\lib\atlassian-seraph-2.6.4.jar
+- WEB-INF\lib\atlassian-seraph-3.0.3.jar
 - WEB-INF\classes\
-- WEB-INF\lib\crowd-integration-seraph25-2.8.3.jar
-- WEB-INF\lib\embedded-crowd-api-2.8.3.jar
-- WEB-INF\lib\jira-api-6.4.11.jar
+- WEB-INF\lib\crowd-integration-seraph25-2.8.8.jar
+- WEB-INF\lib\embedded-crowd-api-2.8.8.jar
+- WEB-INF\lib\jira-api-7.2.4.jar
 
 ## Installation
 If built through Maven;
