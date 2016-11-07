@@ -7,7 +7,7 @@
 
     <groupId>eu.midan</groupId>
     <artifactId>midan-authenticator</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
 
     <repositories>
         <repository>
@@ -29,7 +29,7 @@
         <dependency>
             <groupId>com.atlassian.jira</groupId>
             <artifactId>jira-core</artifactId>
-            <version>6.4.7</version>
+            <version>7.2.4</version>
             <scope>provided</scope>
             <exclusions>
                 <exclusion>
