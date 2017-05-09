@@ -45,3 +45,4 @@ If built manually;
 <authenticator class="eu.midan.MIDANAuthenticator"/>
 <!-- CROWD:END -->
 ```
+3. To get it working, you need to have the "JIRA Internal Directory" enabled and it has to be on the first position in the JIRA user directories.
